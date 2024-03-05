@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Desika Nurul Afifah**.<br>
 
-Saya seorang **Mahasiswa** di Universitas Negeri Semarang.<br>
+Saya seorang **Mahasiswi** di Universitas Negeri Semarang.<br>
 
 <p align="left">
 <a href="https://github.com/desikanra">
