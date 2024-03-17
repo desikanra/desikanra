@@ -1,8 +1,6 @@
-# Halo semua! 
+# Halo friends! 
 
-Perkenalkan nama saya **Desika Nurul Afifah**.<br>
-
-Saya seorang **Mahasiswi** di Universitas Negeri Semarang.<br>
+Perkenalkan saya **Desika Nurul Afifah**, seorang **Mahasiswi** di Universitas Negeri Semarang.<br>
 
 <p align="left">
 <a href="https://github.com/desikanra">
